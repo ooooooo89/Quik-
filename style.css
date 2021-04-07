@@ -1,7 +1,7 @@
 body {text-align: center;
 background: coral;}
 .container {background: #7e1a1a;
-    overflow: auto; /* Добавляем полосы прокрутки */;}
+    text-align: left;}
 
 h1 {background: #ffffff;
     color:darkblue;
