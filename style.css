@@ -1,0 +1,18 @@
+body {text-align: center;
+background: coral;}
+.container {background: #7e1a1a;
+    overflow: auto; /* Добавляем полосы прокрутки */;}
+
+h1 {background: #ffffff;
+    color:darkblue;
+        margin: 100px;
+        padding: 20px;
+        border: 2px solid black;
+        height: 60px;
+        weight:700px;
+        font-style:times new roman;
+        font-size: 20px;
+        width: 550px;}
+        ol {color:darkblue;}
+{background: img src=".\Безымянный.png" alt="шутка про-положи деньги на телефон" coral;}
+
